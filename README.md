@@ -6,6 +6,6 @@ All content and media is copyright © Michael MacDonald, released under `CC-BY-N
 
 # Image Showcase
 
-<img src="v0.3-Miine.PNG" height="250" title="v0.3-Miine.PNG"> <img src="Initial-Design-Idea.png" height="250" title="Initial-Design-Idea.png">
-<img src="v0.2-Miine.png" height="250" title="v0.2-Miine.png">
+<img src="CAD/v0.3-Miine.PNG" height="250" title="v0.3 Miine"> <img src="CAD/Initial-Design-Idea.png" height="250" title="Initial Design Idea">
+<img src="CAD/v0.2-Miine.png" height="250" title="v0.2 Miine">
 
