@@ -1,3 +1,5 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # Media Library
 This repository is a library of media related to OSAB. It includes images of CAD models, parts, and vessels as well as images of processes like the building and assembly of vessels. These images are freely available for public viewing and use under the `CC-BY-NC-SA-4.0` license.
 
