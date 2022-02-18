@@ -1,4 +1,4 @@
-# Media-Library
+# Media Library
 This repository is a library of media related to OSAB. It includes images of CAD models, parts, and vessels as well as images of processes like the building and assembly of vessels. These images are freely available for public viewing and use under the `CC-BY-NC-SA-4.0` license.
 
 ## Legal Notice:
